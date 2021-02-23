@@ -1,8 +1,4 @@
-# This program is built for Network Topology
----
-项目主要框架为Vue.js ，UI主要使用Argon Design
-
-### 项目结构
+|-- Demo
     |-- .DS_Store
     |-- .gitignore
     |-- CHANGELOG.md
