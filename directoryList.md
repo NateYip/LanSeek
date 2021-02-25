@@ -6,6 +6,7 @@
     |-- LICENSE.md
     |-- README.md
     |-- babel.config.js
+    |-- directoryList.md
     |-- package-lock.json
     |-- package.json
     |-- vue.config.js
@@ -269,4 +270,4 @@
         |   |-- globalDirectives.js
         |-- views
             |-- Dashboard.vue
-            |-- Help.vue
+            |-- Doc.vue

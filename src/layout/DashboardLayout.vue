@@ -14,7 +14,7 @@
           }"
         />
 
-        <sidebar-item :link="{name: 'Help', icon: 'ni ni-planet text-blue', path: '/help'}"/>
+        <sidebar-item :link="{name: 'Doc', icon: 'ni ni-planet text-blue', path: '/doc'}"/>
       
 
       </template>

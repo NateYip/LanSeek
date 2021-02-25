@@ -17,9 +17,9 @@ export default new Router({
             component: () => import(/* webpackChunkName: "demo" */ './views/Dashboard.vue')
           },
           {
-            path: '/help',
-            name: 'help',
-            component: () => import(/* webpackChunkName: "demo" */ './views/Help.vue')
+            path: '/doc',
+            name: 'doc',
+            component: () => import(/* webpackChunkName: "demo" */ './views/Doc.vue')
           }
         ]
       },

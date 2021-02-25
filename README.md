@@ -1,6 +1,6 @@
 # This program is built for Network Topology
 ---
-项目主要框架为Vue.js ，UI主要使用Argon Design
+项目主要框架为Vue.js ，UI主要使用Argon Design,AntV
 
 ### 项目结构
     |-- .DS_Store
@@ -10,6 +10,7 @@
     |-- LICENSE.md
     |-- README.md
     |-- babel.config.js
+    |-- directoryList.md
     |-- package-lock.json
     |-- package.json
     |-- vue.config.js
@@ -273,4 +274,4 @@
         |   |-- globalDirectives.js
         |-- views
             |-- Dashboard.vue
-            |-- Help.vue
+            |-- Doc.vue

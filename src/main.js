@@ -18,11 +18,11 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from "./MyRouter";
-
 import ArgonDashboard from './plugins/argon-dashboard'
 
 Vue.config.productionTip = false
-
+const G2 = require('@antv/g2')
+Vue.prototype.$G2 = G2
 Vue.use(ArgonDashboard)
 new Vue({
   router,
