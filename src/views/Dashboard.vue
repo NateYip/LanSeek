@@ -39,6 +39,7 @@
                         </line-chart>
                     </card>
                 </div>
+                
             </div>
             <!-- End charts-->
         </div>
